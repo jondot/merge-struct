@@ -1,0 +1,23 @@
+[package]
+name = "merge-struct"
+version = "0.1.0"
+edition = "2021"
+
+description = "Deep merge for serializable structs"
+authors = ["Dotan Nahum <dotan@rng0.io>"]
+documentation = "https://docs.rs/merge-struct"
+repository = "https://github.com/jondot/merge-struct"
+categories = ["encoding"]
+keywords = ["serde", "json"]
+license = "Apache-2.0"
+readme = "../README.md"
+
+[dependencies]
+serde = "1"
+serde_json = "1"
+
+[dev-dependencies]
+insta = { version = "1.17.1", features = ["backtrace", "redactions"] }
+pretty_assertions = "1"
+# rstest = "^0.14.0"
+# serial_test = "0.4.0"
