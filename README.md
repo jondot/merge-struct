@@ -1,7 +1,7 @@
 Merge Struct
 ============
 
-[<img alt="github" src="https://img.shields.io/badge/github-jondot/merge-struct-8dagcb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/jondot/merge-struct)
+[<img alt="github" src="https://img.shields.io/badge/github-jondot/merge--struct-8dagcb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/jondot/merge-struct)
 [<img alt="crates.io" src="https://img.shields.io/crates/v/merge-struct.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/merge-struct)
 [<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-merge-struct-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs" height="20">](https://docs.rs/merge-struct)
 [<img alt="build status" src="https://img.shields.io/github/workflow/status/jondot/merge-struct/Build/master?style=for-the-badge" height="20">](https://github.com/jondot/merge-struct/actions?query=branch%3Amaster)
